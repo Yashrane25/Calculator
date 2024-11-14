@@ -9,8 +9,11 @@ Convert values between different currencies.
 
 ### Measurement Calculators:
    Length: Convert between different units of length (meters, feet, inches, etc.).
+   
    Area: Calculate area for various shapes or convert between area units.
+   
    Volume: Compute volume for shapes or convert between volume units.
+   
    Weight: Convert between different weight units.
    
 ### Temperature Calculator: 
