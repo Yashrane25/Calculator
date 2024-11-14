@@ -34,6 +34,6 @@ Convert numbers between binary, octal, decimal, and hexadecimal systems.
 These future features will be integrated step-by-step, expanding the calculator from basic arithmetic to a more comprehensive tool for various conversions and calculations.
 
 ### Technologies Used:
-HTML: Structure and layout of the calculator
-CSS: Styling for a visually appealing user interface
-JavaScript: Functionality to handle button clicks and calculations
+1. HTML: Structure and layout of the calculator
+2. CSS: Styling for a visually appealing user interface
+3. JavaScript: Functionality to handle button clicks and calculations
