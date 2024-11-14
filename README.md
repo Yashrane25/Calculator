@@ -8,10 +8,10 @@ Working on updates, additional functionalities are planned to make this a more v
 Convert values between different currencies.
 
 ### Measurement Calculators:
-   Length:(U+25CF) Convert between different units of length (meters, feet, inches, etc.).
-   Area:(U+25CF) Calculate area for various shapes or convert between area units.
-   Volume:(U+25CF) Compute volume for shapes or convert between volume units.
-   Weight:(U+25CF) Convert between different weight units.
+   Length: Convert between different units of length (meters, feet, inches, etc.).
+   Area: Calculate area for various shapes or convert between area units.
+   Volume: Compute volume for shapes or convert between volume units.
+   Weight: Convert between different weight units.
    
 ### Temperature Calculator: 
 Convert between Celsius, Fahrenheit, and Kelvin.
@@ -31,6 +31,6 @@ Convert numbers between binary, octal, decimal, and hexadecimal systems.
 These future features will be integrated step-by-step, expanding the calculator from basic arithmetic to a more comprehensive tool for various conversions and calculations.
 
 ### Technologies Used:
-HTML:(U+25CF) Structure and layout of the calculator
-CSS:(U+25CF) Styling for a visually appealing user interface
-JavaScript:(U+25CF) Functionality to handle button clicks and calculations
+HTML: Structure and layout of the calculator
+CSS: Styling for a visually appealing user interface
+JavaScript: Functionality to handle button clicks and calculations
